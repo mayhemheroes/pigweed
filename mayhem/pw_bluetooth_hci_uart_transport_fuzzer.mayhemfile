@@ -1,0 +1,4 @@
+project: PROJECT
+target: pw_bluetooth_hci_uart_transport_fuzzer
+cmds:
+- cmd: /out/pw_bluetooth_hci_uart_transport_fuzzer
